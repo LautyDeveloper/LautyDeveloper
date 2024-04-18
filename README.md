@@ -21,7 +21,7 @@
 
 ## Stack de Tecnologias
 <!--tech stack icons-->
-<p align="center">
+<p align="center" text-align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,js,firebase,react,redux,mysql,mongodb,nodejs,py,php,cs,git,github,npm,notion,figma,ps,sublime,vscode,arduino,unity&perline=14" />
   </a>
