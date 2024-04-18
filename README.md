@@ -1,4 +1,4 @@
-<div align="center">
+.... <div align="center">
 <h1 align="center">Hola, soy Lautaro Aquino 👋</h1>
 </div>
 <div align="center" widht="100%">
@@ -15,8 +15,8 @@
 
 - ⭐ Lauty ⭐ 
 - 🖥️ Web Developer
-- 📚 Me encanta aprender, entonces si no me ves Codeando ⌨️, estoy estudiando 🤓
-- 👨‍💻 Amante de la Tecnologia
+- 📚 AutoDidacta, Si no estoy Codeando ⌨️, estoy estudiando 🤓
+- 🚀 Quiero progresar en el Mundo Tech y en un futuro desarrollar mi producto Personal
 <br>
 
 ## 🤓Stack de Tecnologias🤓
