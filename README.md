@@ -20,7 +20,7 @@
 <br>
 
 ## Proyectos *bombitas*
-/*
+<!--
 <table>
 <tr>
 <td width="50%">
@@ -97,6 +97,7 @@
 </td>  
 </table>                                                                                 
 </div>
+-->
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
