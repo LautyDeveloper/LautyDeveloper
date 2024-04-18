@@ -19,7 +19,7 @@
 - 👨‍💻 Amante de la Tecnologia
 <br>
 
-## 🚀Stack de Tecnologias🚀
+## 🤓Stack de Tecnologias🤓
 <!--tech stack icons-->
 <p align="center" text-align="center">
   <a href="https://skillicons.dev">
