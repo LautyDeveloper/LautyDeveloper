@@ -11,7 +11,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 -->
-## Sobre mi
+## 👨‍💻 Sobre mi 👨‍💻
 
 - ⭐ Lauty ⭐ 
 - 🖥️ Web Developer
@@ -19,7 +19,7 @@
 - 👨‍💻 Amante de la Tecnologia
 <br>
 
-## Stack de Tecnologias
+## 🚀Stack de Tecnologias🚀
 <!--tech stack icons-->
 <p align="center" text-align="center">
   <a href="https://skillicons.dev">
