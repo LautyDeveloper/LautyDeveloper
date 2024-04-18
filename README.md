@@ -115,7 +115,7 @@
 <img src=https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FLAUTARO11264918&label=Seguime%20En%20X alt=Hola style="margin-bottom: 5px;" style="padding: 10px;" />
 
 <a href="www.linkedin.com/in/lautaro-aquino-073840304" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=EA4335&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=30B0FF&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
 ## Sponsors
 <a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&utm_medium=referral">
