@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Lautaro Aquino 👋</h1>
 </div>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/NVRpyT8"  ><a href="//imgur.com/a/NVRpyT8">Banner for Github</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![image](https://github.com/LautyDeveloper/LautyDeveloper/assets/133911033/bfb469b7-e9d5-43b4-bb0b-198553a204a1)
+
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
