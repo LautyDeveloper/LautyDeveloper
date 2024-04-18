@@ -1,4 +1,4 @@
-.... <div align="center">
+<div align="center">
 <h1 align="center">Hola, soy Lautaro Aquino 👋</h1>
 </div>
 <div align="center" widht="100%">
