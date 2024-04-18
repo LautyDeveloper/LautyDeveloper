@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Lautaro Aquino </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/NVRpyT8" data-context="false" ><a href="//imgur.com/a/NVRpyT8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/NVRpyT8">
 
 <br>
 
