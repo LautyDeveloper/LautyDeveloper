@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Lautaro Aquino 👋</h1>
 </div>
 <div align="center" widht="100%">
-  <img src="https://i.imgur.com/uwKq1D7l.png" align="center" widht="100%">
+  <img src="https://i.imgur.com/uwKq1D7l.png" align="center" widht="100">
 </div>
 
 
