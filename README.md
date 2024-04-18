@@ -112,7 +112,7 @@
 ## Contact us
 
 <a href="https://twitter.com/LAUTARO11264918" target="_blank">
-<img src=https://img.shields.io/badge/x-%2300acee.svg?color=000000&style=for-the-badge&logo=x&logoColor=white alt=Sigueme En X style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/x-%2300acee.svg?color=000000&style=for-the-badge&logo=Hola&logoColor=white alt=X Image style="margin-bottom: 5px;" />
 
 <a href="www.linkedin.com/in/lautaro-aquino-073840304" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=EA4335&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
