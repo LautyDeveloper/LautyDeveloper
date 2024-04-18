@@ -99,6 +99,11 @@
 </div>
 -->
 <br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -108,11 +113,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LautyDeveloper&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-## Contact us
-
-<a href="www.linkedin.com/in/lautaro-aquino-073840304" target="_blank">
-<img src=https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FLAUTARO11264918&label=Seguime%20En%20X alt=linkedin style="margin-bottom: 5px;" />
-
-<a href="www.linkedin.com/in/lautaro-aquino-073840304" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=30B0FF&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-
