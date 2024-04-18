@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Lautaro Aquino 👋</h1>
 </div>
-![image](https://github.com/LautyDeveloper/LautyDeveloper/assets/133911033/bfb469b7-e9d5-43b4-bb0b-198553a204a1)
-
+<img src="https://i.imgur.com/uwKq1D7l.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
